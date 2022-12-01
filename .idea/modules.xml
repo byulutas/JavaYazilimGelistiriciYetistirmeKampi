@@ -2,21 +2,24 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ArkadasSayilar/ArkadasSayilar.iml" filepath="$PROJECT_DIR$/ArkadasSayilar/ArkadasSayilar.iml" />
-      <module fileurl="file://$PROJECT_DIR$/AsalSayilar/AsalSayilar.iml" filepath="$PROJECT_DIR$/AsalSayilar/AsalSayilar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta1/ArkadasSayilar/ArkadasSayilar.iml" filepath="$PROJECT_DIR$/Hafta1/ArkadasSayilar/ArkadasSayilar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta1/AsalSayilar/AsalSayilar.iml" filepath="$PROJECT_DIR$/Hafta1/AsalSayilar/AsalSayilar.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hafta2/Classes/Classes.iml" filepath="$PROJECT_DIR$/Hafta2/Classes/Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta1/Hafta1.iml" filepath="$PROJECT_DIR$/Hafta1/Hafta1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hafta3/Hafta3.iml" filepath="$PROJECT_DIR$/Hafta3/Hafta3.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaYazilimGelistiriciYetistirmeKampi.iml" filepath="$PROJECT_DIR$/.idea/JavaYazilimGelistiriciYetistirmeKampi.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hafta3/homework2/MethodOverloading/MethodOverloading.iml" filepath="$PROJECT_DIR$/Hafta3/homework2/MethodOverloading/MethodOverloading.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hafta2/Methods/Methods.iml" filepath="$PROJECT_DIR$/Hafta2/Methods/Methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hafta2/Methods2/Methods2.iml" filepath="$PROJECT_DIR$/Hafta2/Methods2/Methods2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MukemmelSayilar/MukemmelSayilar.iml" filepath="$PROJECT_DIR$/MukemmelSayilar/MukemmelSayilar.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SayiBulma/SayiBulma.iml" filepath="$PROJECT_DIR$/SayiBulma/SayiBulma.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SesliHarfler/SesliHarfler.iml" filepath="$PROJECT_DIR$/SesliHarfler/SesliHarfler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta1/MukemmelSayilar/MukemmelSayilar.iml" filepath="$PROJECT_DIR$/Hafta1/MukemmelSayilar/MukemmelSayilar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta1/SayiBulma/SayiBulma.iml" filepath="$PROJECT_DIR$/Hafta1/SayiBulma/SayiBulma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta1/SesliHarfler/SesliHarfler.iml" filepath="$PROJECT_DIR$/Hafta1/SesliHarfler/SesliHarfler.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hafta3/homework2/abstractClasses/abstractClasses.iml" filepath="$PROJECT_DIR$/Hafta3/homework2/abstractClasses/abstractClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hafta3/homework2/abstractsDemo/abstractsDemo.iml" filepath="$PROJECT_DIR$/Hafta3/homework2/abstractsDemo/abstractsDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hafta2/classesWithAttributes/classesWithAttributes.iml" filepath="$PROJECT_DIR$/Hafta2/classesWithAttributes/classesWithAttributes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hafta3/homework2/homework2.iml" filepath="$PROJECT_DIR$/Hafta3/homework2/homework2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta3/homework3/homework3.iml" filepath="$PROJECT_DIR$/Hafta3/homework3/homework3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta3/homework5/homework5.iml" filepath="$PROJECT_DIR$/Hafta3/homework5/homework5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hafta2/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/Hafta2/inheritance/inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hafta3/homework2/inheritence/inheritence.iml" filepath="$PROJECT_DIR$/Hafta3/homework2/inheritence/inheritence.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hafta3/homework2/inheritenceDemo/inheritenceDemo.iml" filepath="$PROJECT_DIR$/Hafta3/homework2/inheritenceDemo/inheritenceDemo.iml" />
